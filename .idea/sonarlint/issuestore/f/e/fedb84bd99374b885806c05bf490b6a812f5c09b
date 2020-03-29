@@ -1,0 +1,5 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ´Š×
+Psquid:S1068"3Remove this unused "REST_URL_PREFIX" private field.(ßŠ™c8à¤óÅ€.
+xsquid:UselessImportCheck
+"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Þûÿÿÿÿ8ðÄ·Ñ€.

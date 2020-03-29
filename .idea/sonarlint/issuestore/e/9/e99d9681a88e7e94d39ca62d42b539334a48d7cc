@@ -1,0 +1,7 @@
+
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÍÅðÞùÿÿÿÿ8ûñ¢£€.
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(Å —™8áÜ‰£€.
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×È¾·8»üÌ¢€.
+¤squid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØðâÛüÿÿÿÿ8Ä™ñ¢€.
+Msquid:S1172"*Remove this unused method parameter "key".(ÍÅðÞùÿÿÿÿ8éò¢€.
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(è›˜¨ûÿÿÿÿ8»üÌ¢€.
